@@ -1,3 +1,8 @@
+# solution:
+
+![image](https://github.com/user-attachments/assets/e880fb1a-59e8-4a8e-82d0-37e1778b5bd4)
+
+
 # edp-exam-c
 
 ## Create a system similar to student-embassy but that should allow to enroll to university
